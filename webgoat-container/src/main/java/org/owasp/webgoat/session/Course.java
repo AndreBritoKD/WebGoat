@@ -45,6 +45,7 @@ public class Course {
 
     public Course(List<? extends Lesson> lessons) {
         this.lessons = lessons;
+        int a = 1;
     }
 
     /**
